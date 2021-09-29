@@ -1,0 +1,9 @@
+{
+    "require": {
+	"php": "7.3.24",
+	"components/jquery": "1.12.4",
+	"components/bootstrap": "3.3.6",
+	"makeusabrew/bootbox": "v4.x-dev",
+	"nnnick/chartjs": "2.9.3"
+    }
+}

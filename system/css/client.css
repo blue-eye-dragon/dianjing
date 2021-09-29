@@ -1,0 +1,12 @@
+/******************************************************************************
+Copyright 2012 - 2020 Intel Corporation
+
+For licensing information, see the file 'LICENSE' in the root folder of
+                           this software module.
+******************************************************************************/
+
+body {
+  background-image: url("/tc/images/login_bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
